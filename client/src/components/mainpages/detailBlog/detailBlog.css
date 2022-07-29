@@ -1,0 +1,31 @@
+/*---------------Blog Item---------------------*/
+@import url("../utils/blogItem/blogRelated.css");
+.detail_blog {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+.box_detail img {
+  width: 75%;
+}
+.blog_detail {
+  margin-right: 2rem;
+}
+.box_detail h2 {
+  text-transform: uppercase;
+}
+.box_detail p {
+  margin-top: 1rem;
+  text-align: start;
+}
+.blog_list {
+  border-left: 1px solid #ececec;
+}
+.blog_list h3 {
+  margin-top: 3rem;
+  border-top: 1px solid #777;
+  padding-top: 1rem;
+}
+.blog_list_item img {
+  width: 100%;
+}

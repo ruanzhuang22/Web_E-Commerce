@@ -1,0 +1,26 @@
+.contact {
+  display: flex;
+  justify-content: space-around;
+  margin: 1.5rem 0;
+}
+.contact-doc {
+  align-self: center;
+}
+.contact-doc h3 {
+  color: #3ac2cc;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.contact-doc ul {
+  padding-left: 0;
+}
+.contact-doc li:not(:first-child) {
+  margin-top: 0.5rem;
+}
+.contact-doc i {
+  color: #3ac2cc;
+}
+.contact-doc span {
+  margin-left: 1rem;
+  color: #555;
+}

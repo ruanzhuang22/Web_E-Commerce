@@ -1,0 +1,12 @@
+.about_us {
+  margin: 2rem 0;
+}
+.about_us h2 {
+  text-align: center;
+  color: #3ac2cc;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.about_us p {
+  text-indent: 2rem;
+}

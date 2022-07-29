@@ -1,0 +1,45 @@
+.carousel-indicators [data-bs-target] {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
+.row-title .title {
+  margin-top: 1.5rem;
+  position: relative;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  color: #555;
+}
+.title b {
+  display: block;
+  flex: 1;
+  height: 2px;
+  opacity: 0.1;
+  background-color: currentColor;
+}
+.title .title-main {
+  text-transform: uppercase;
+}
+.core-value .row-core-value {
+  margin-top: 1rem;
+  padding: 30px 30px 30px 30px;
+  background-color: rgb(240, 249, 251);
+}
+.core-value .text-inner {
+  margin-top: 1rem;
+}
+.core-value .text-inner h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #555;
+  text-transform: capitalize;
+}
+.core-value .row-core-value .icon-inner img {
+  width: 60px;
+  height: 60px;
+}
+.product-home {
+}

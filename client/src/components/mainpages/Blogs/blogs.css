@@ -1,0 +1,20 @@
+.blogs {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.blogs-admin img {
+  width: 200px;
+}
+.blogs-admin h2 {
+  font-size: 1.5rem;
+}
+.blogs-admin p {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 0;
+}
+/*---------------Blog Item---------------------*/
+@import url("../utils/blogItem/blogItem.css");

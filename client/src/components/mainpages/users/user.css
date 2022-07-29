@@ -1,0 +1,35 @@
+.update_user h2 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #3ac2cc;
+  font: 700;
+}
+.user-info {
+  margin-top: 1rem;
+}
+.user-info input {
+  width: 100%;
+}
+.user-info label {
+  font-size: 20px;
+  font-weight: 600;
+  color: #3ac2cc;
+}
+.user_btn {
+  width: 20%;
+  text-align: center;
+  background-color: #b5e2ef;
+  border: 1px solid #b5e2ef;
+  color: black;
+  text-transform: capitalize;
+}
+.user_btn button {
+  color: black;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+.user_btn a {
+  color: black;
+  text-transform: capitalize;
+  font-size: 20px;
+}

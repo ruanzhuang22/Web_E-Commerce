@@ -1,0 +1,42 @@
+footer {
+  border-top: 1px solid #555;
+}
+footer ul {
+  padding-left: 0;
+}
+footer a {
+  color: #555;
+}
+footer .row {
+  margin: 1.5rem 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+.col-md-3.col {
+  text-align: center;
+}
+.footer-logo {
+  margin-top: -1rem;
+  display: flex;
+  justify-content: center;
+}
+.footer-social {
+  margin-top: 40px;
+}
+.footer-social ul {
+  display: flex;
+  justify-content: center;
+  margin-top: -2rem;
+}
+.footer-social ul li:not(:first-child) {
+  margin-left: 0.5rem;
+}
+footer h5 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 800;
+}
+.footer-contact ul li span {
+  margin-left: 0.5rem;
+}

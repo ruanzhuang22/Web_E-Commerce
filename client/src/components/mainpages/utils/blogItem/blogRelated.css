@@ -1,0 +1,12 @@
+.blog_related_item {
+  margin: 1rem 0;
+}
+.blog_related_item img {
+  width: 75%;
+}
+.blog_related_item h4 {
+  color: rgb(99, 94, 94);
+}
+.blog_related_item h4:hover {
+  color: black;
+}
